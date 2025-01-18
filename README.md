@@ -68,7 +68,7 @@ The app will open in your default web browser at `http://localhost:8501`
 
 ## 📸 Screenshots
 
-[Add screenshots of your app here]
+[Chatbot Screenshot](https://github.com/mohamed682004/-CodeAlpha_ChatBot/blob/main/Screenshot%202025-01-18%20194510.png)
 
 ## 🛠️ Project Structure
 
